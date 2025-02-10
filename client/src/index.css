@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.category {
+    text-align: left;
+    margin-bottom: 10px; /* Optional: Adds space between each category */
+  }
+  
